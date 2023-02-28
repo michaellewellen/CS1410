@@ -1,0 +1,15 @@
+C:\Users\michael.lewellen\Desktop\Code\CS1410\bin\Debug\net7.0\CS1410.exe
+C:\Users\michael.lewellen\Desktop\Code\CS1410\bin\Debug\net7.0\CS1410.deps.json
+C:\Users\michael.lewellen\Desktop\Code\CS1410\bin\Debug\net7.0\CS1410.runtimeconfig.json
+C:\Users\michael.lewellen\Desktop\Code\CS1410\bin\Debug\net7.0\CS1410.dll
+C:\Users\michael.lewellen\Desktop\Code\CS1410\bin\Debug\net7.0\CS1410.pdb
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\CS1410.csproj.AssemblyReference.cache
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\CS1410.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\CS1410.AssemblyInfoInputs.cache
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\CS1410.AssemblyInfo.cs
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\CS1410.csproj.CoreCompileInputs.cache
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\CS1410.dll
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\refint\CS1410.dll
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\CS1410.pdb
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\CS1410.genruntimeconfig.cache
+C:\Users\michael.lewellen\Desktop\Code\CS1410\obj\Debug\net7.0\ref\CS1410.dll
